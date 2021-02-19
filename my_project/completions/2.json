@@ -1,0 +1,16 @@
+{
+ "completions": [
+  {
+   "created_at": 1613699364,
+   "id": 2001,
+   "lead_time": 2.539,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "text": "Calculating a Racah W-coefficient requires knowledge of six parameters corresponding to this quantity. Another set of coefficients arising from this quantity relate reduced matrix elements to the spherical tensor. The individual components of the operator corresponding to this quantity commute with its square, but not with each other. That square of the operator corresponding to this quantity has as its eigenfunctions the spherical harmonics. This quantity's conservation follows by Noether's theorem from rotational invariance, and implies Kepler's second law. In the case of a particle undergoing uniform circular motion, this quantity's magnitude equals m times v times r. For 10 points, name this quantity, equal to moment of inertia times angular velocity."
+ },
+ "id": 2
+}

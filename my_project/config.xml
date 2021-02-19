@@ -1,0 +1,5 @@
+<View>
+  <Text name="question" value="$text"/>
+  <TextArea name="answer" toName="question" placeholder="Enter the answer to this question or leave blank if unknown."></TextArea>
+  
+</View>
