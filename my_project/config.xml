@@ -1,5 +1,6 @@
 <View>
-  <Text name="question" value="$text"/>
-  <TextArea name="answer" toName="question" placeholder="Enter the answer to this question or leave blank if unknown."></TextArea>
+  <Text name="question" value="$question"/>
+  <Text name="question_answer" value="$answer"/>
+  <TextArea name="answer" placeholder="Enter the corresponding Wiki page"></TextArea>
   
 </View>
