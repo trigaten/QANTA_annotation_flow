@@ -10,5 +10,5 @@ Install label studio:
     pip install -U label-studio
 
 
-Start the project
+Start the project:
     label-studio start my_project
