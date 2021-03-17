@@ -1,4 +1,5 @@
 config.xml contains the structure in which questions are displayed for annotations
+
 tasks.json contains the data to be annotated
 
 
